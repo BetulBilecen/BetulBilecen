@@ -1,4 +1,4 @@
-# # Hi, I'm Betül 👋
+#  Hi, I'm Betül 👋
 
 ### Final Year Computer Engineering Student | Aspiring Machine Learning Engineer
 
