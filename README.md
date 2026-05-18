@@ -1,4 +1,4 @@
-# Hi, I'm Betül 👋
+# # Hi, I'm Betül 👋
 
 ### Final Year Computer Engineering Student | Aspiring Machine Learning Engineer
 
@@ -48,6 +48,12 @@ I'm a final-year Computer Engineering student passionate about **Machine Learnin
 
 ## 🚀 Featured Projects
 
+### 🦴 [Pediatric Bone Age Estimation — Xception & TensorFlow](https://github.com/BetulBilecen/Pediatric-Bone-Age-Prediction-Xception)
+An end-to-end deep learning regression pipeline designed to estimate pediatric bone age (in months) from hand X-ray images. Built using Xception-based Transfer Learning with full fine-tuning on a T4 GPU, incorporating domain-specific data augmentation and custom preprocessing to preserve fine skeletal structures.
+`TensorFlow` `Keras` `Xception` `Medical Image Regression` `Transfer Learning`
+
+---
+
 ### 🚗 [Smart Traffic Analyzer — YOLOv8 + BoTSORT](https://github.com/BetulBilecen/Smart-Traffic-Analyzer)
 A vehicle tracking and traffic analytics system using YOLOv8 and BoTSORT. Features movement thresholding for stationary vehicle detection, directional flow analysis, and automated JSON reporting.
 `YOLOv8` `BoTSORT` `OpenCV` `Object Tracking`
@@ -61,7 +67,7 @@ An end-to-end sentiment analysis system that classifies movie reviews using a CN
 ---
 
 ### 🖼️ [DL Image Processing Projects Collection](https://github.com/BetulBilecen/DL-Image-Processing-Projects)
-A collection of deep learning and computer vision projects:
+A curated collection of deep learning and computer vision architectures implemented as separate modules:
 - 🛰️ **U-Net Satellite Image Segmentation** — binary segmentation of aerial imagery with skip connections
 - 🫁 **Pneumonia Detection (DenseNet121)** — %97.9 pneumonia recall on chest X-rays
 - 🚦 **Traffic Sign Detection (YOLOv8)** — real-time detection and classification
