@@ -68,14 +68,16 @@ An end-to-end sentiment analysis system that classifies movie reviews using a CN
 
 ### 🖼️ [DL Image Processing Projects Collection](https://github.com/BetulBilecen/DL-Image-Processing-Projects)
 A curated collection of deep learning and computer vision architectures implemented as separate modules:
-- 🛰️ **U-Net Satellite Image Segmentation** — binary segmentation of aerial imagery with skip connections
-- 🫁 **Pneumonia Detection (DenseNet121)** — %97.9 pneumonia recall on chest X-rays
-- 🚦 **Traffic Sign Detection (YOLOv8)** — real-time detection and classification
-- 🚙 **Vehicle Tracker (YOLOv8 + ByteTrack)** — multi-object tracking pipeline
-- 👗 **Fashion GAN** — synthetic clothing image generation from noise
+- 🛰️ **U-Net Satellite Image Segmentation** — binary/semantic segmentation of aerial imagery with skip connections
+- 🫁 **Pneumonia Detection (DenseNet121)** — %97.9 pneumonia recall on chest X-rays via Transfer Learning
+- 🚦 **Traffic Sign Detection (YOLOv8)** — real-time detection and classification across 15 traffic sign classes
+- 🚙 **Vehicle Tracker (YOLOv8 + ByteTrack)** — multi-object tracking pipeline with persistent ID assignment
+- 👗 **Fashion GAN** — synthetic clothing image generation from noise with DCGAN
 - 🌸 **Flower Classification (CNN)** — multi-class image classification with data augmentation
+- 🔢 **Digit Classification (ANN)** — handwritten digit classification with OpenCV preprocessing (96.09% accuracy)
+- 😊 **Real-Time Facial Emotion Recognition (MediaPipe)** — webcam-based 6-expression recognition using personalized Face Mesh calibration
 
-`TensorFlow` `PyTorch` `YOLOv8` `U-Net` `GAN` `Transfer Learning`
+`TensorFlow` `PyTorch` `Keras` `OpenCV` `MediaPipe` `YOLOv8` `ByteTrack` `U-Net` `GAN` `Transfer Learning`
 
 ---
 
