@@ -1,4 +1,4 @@
-#  Hi, I'm Betül 👋
+# Hi, I'm Betül 👋
 
 ### Final Year Computer Engineering Student | Aspiring Machine Learning Engineer
 
@@ -78,6 +78,18 @@ A curated collection of deep learning and computer vision architectures implemen
 - 😊 **Real-Time Facial Emotion Recognition (MediaPipe)** — webcam-based 6-expression recognition using personalized Face Mesh calibration
 
 `TensorFlow` `PyTorch` `Keras` `OpenCV` `MediaPipe` `YOLOv8` `ByteTrack` `U-Net` `GAN` `Transfer Learning`
+
+---
+
+## 📝 Engineering Notes
+
+### 🏛️ [TUG — Internship Study & System Design Notes](https://github.com/BetulBilecen/TUG)
+A collection of study notes, system design concepts, and foundational technical summaries compiled during my engineering internship:
+- **Architecture & Patterns:** Notes on CQRS & Mediator Pattern, Object-Relational Mapping (ORM)
+- **Infrastructure & Secrets:** Configuration and secret management fundamentals (`etcd`, `Consul`)
+- **Identity & Access Management:** Centralized identity and directory services (Active Directory, LDAP, Kerberos authentication)
+- **Networking & Web Protocols:** Core concepts of TCP/IP & OSI model, REST APIs, HTTP lifecycle, and NGINX / reverse proxies
+- **Messaging Systems:** Fundamentals of asynchronous messaging and event queuing
 
 ---
 
