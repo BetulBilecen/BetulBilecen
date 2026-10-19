@@ -97,13 +97,6 @@ A collection of study notes, system design concepts, and foundational technical 
 
 ---
 
-## 📌 What I'm Currently Working On
-
-- 🌿 **Senior Capstone Project (E-Burun):** A sensor-based plant health monitoring system that collects environmental data, detects plant stress using ML models, and notifies users through a mobile application
-- 🔬 **Exploring** hybrid architectures combining deep feature extraction with classical ML classifiers
-
----
-
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/betül-bilecen-613001299)
